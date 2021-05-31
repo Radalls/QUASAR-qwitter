@@ -1,22 +1,5 @@
-# Qwitter (qwitter)
+# Qwitter
 
-A Quasar Framework app
+## Download Links
 
-## Install the dependencies
-```bash
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
++ Windows app : https://drive.google.com/file/d/1fKeJN1jYW6tqdmlGLjCtHc-kNPGp_6NR/view?usp=sharing
